@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shourya4641&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## Road Card
+[![roadmap.sh](https://roadmap.sh/card/wide/6645cae6f4bbac65703ddfb7?variant=dark)](https://roadmap.sh)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
