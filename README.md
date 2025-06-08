@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Implementation of tokenomics using Ethereum blockchain in an EdTech startup.<br><br>👯 I’m looking to collaborate on<br>Blockchain technology projects and initiatives that bring value to people's lives.<br><br>🤝 I’m looking for help with<br>Mentorship in my technical career within blockchain technology and overall life guidance to gain perspective, knowledge, and growth.<br><br>🌱 I’m currently learning<br>Backend web development and blockchain application development. I also dedicate a fixed time daily to solving DSA problems to sharpen my coding skills and critical thinking.<br><br>💬 Ask me about<br>Blockchain technology, backend development, data structures, and algorithms. Also, feel free to discuss human psychology and behavioral science, topics I love to explore through reading.<br><br>⚡ Fun fact<br>I enjoy connecting with people to share opinions and thoughts, and I'm always eager to learn more about the human mind through non-fiction books!
+I'm a blockchain developer with hands-on experience in smart contract development, cross-chain protocols, and decentralized systems. Currently contributing at Dexponent as a Smart Contract Researcher, I focus on analyzing bridging protocols like LayerZero and Across, while implementing contract logic for multi-chain DEX functionality.
+
+My core strengths lie in:
+
+Writing and testing secure smart contracts using Solidity, Foundry, and Hardhat
+
+Building backend tooling with TypeScript, Node.js, and Viem
+
+Researching and prototyping cross-chain messaging and DeFi protocols
+
+Implementing concepts like multi-hop swaps, routing engines, and smart contract design patterns
+
+🔬 I’ve also led blockchain research at Lovely Professional University, where I designed and published a secure Ethereum-based system for Intellectual Property Protection.
+
+I'm currently open to internship or full-time roles in blockchain engineering, DeFi, or protocol infrastructure teams.
+
+Let’s connect if you're building in this space — I’m always up for sharing knowledge, ideas, and feedback!
 
 
 ## 🌐 Socials:
