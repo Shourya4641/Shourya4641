@@ -1,21 +1,6 @@
 # 💫 About Me:
-I'm a blockchain developer with hands-on experience in smart contract development, cross-chain protocols, and decentralized systems. Currently contributing at Dexponent as a Smart Contract Researcher, I focus on analyzing bridging protocols like LayerZero and Across, while implementing contract logic for multi-chain DEX functionality.
-
-My core strengths lie in:
-
-Writing and testing secure smart contracts using Solidity, Foundry, and Hardhat
-
-Building backend tooling with TypeScript, Node.js, and Viem
-
-Researching and prototyping cross-chain messaging and DeFi protocols
-
-Implementing concepts like multi-hop swaps, routing engines, and smart contract design patterns
-
-🔬 I’ve also led blockchain research at Lovely Professional University, where I designed and published a secure Ethereum-based system for Intellectual Property Protection.
-
-I'm currently open to internship or full-time roles in blockchain engineering, DeFi, or protocol infrastructure teams.
-
-Let’s connect if you're building in this space — I’m always up for sharing knowledge, ideas, and feedback!
+I'm a smart contract engineer!
+I enjoy reading books, and DeFi as a whole amazes me...
 
 
 ## 🌐 Socials:
